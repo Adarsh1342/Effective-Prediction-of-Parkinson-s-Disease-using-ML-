@@ -12,10 +12,10 @@ The project aims to provide insights into the strengths, limitations, and future
 ![architecture](https://github.com/Adarsh1342/Effective-Prediction-of-Parkinson-s-Disease-using-ML-/assets/90342434/55d004e2-1623-44d3-8ad4-5f78df4e0428)
 
 # Dataset
-kaggle link : https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
+kaggle link : https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set<br>
 Each row in the table represents one of the 195 voice recordings, and each column represents a specific voice measure (the "name" column). The "status" column, which is set to 0 for healthy and 1 for PD, is used to distinguish between healthy individuals and those with PD in the data.
 
 # Setup
-1.Download the git repo
-2.Change the relative path of the parkinsons.csv file in the .ipynb file according to your computer directory.
-3.Run the file in your ide.It will take about 5-30 mins depending on your computer performance.
+1.Download the git repo<br>
+2.Change the relative path of the parkinsons.csv file in the .ipynb file according to your computer directory.<br>
+3.Run the file in your ide.It will take about 5-30 mins depending on your computer performance.<br>
